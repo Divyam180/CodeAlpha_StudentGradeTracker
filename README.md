@@ -19,3 +19,5 @@ A Java console application designed to manage and track student grades efficient
 1. Open terminal/command prompt and navigate to the project directory:
    ```bash
    cd CodeAlpha_StudentGradeTracker
+   Compile the Java file: javac StudentGradeTracker.java
+   Execute the program: java StudentGradeTracker
